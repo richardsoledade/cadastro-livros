@@ -117,8 +117,7 @@ function App() {
         {/* =============================================================== */}
 
         <hr></hr>
-
-              <div className="tabelinha">
+        <div className="tabelinha">
         <h2>LIVROS CADASTRADOS</h2>
 
         <Table striped bordered hover>
